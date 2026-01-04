@@ -42,8 +42,5 @@ Through this project I gained experience with:
 - Using loops and conditionals to control program flow
 - Designing simple features like stock tracking and multi‑purchase logic
 
-📎 Assignment Link
-This repository is part of my submission for the Utility App assignment.
-The GitHub link is included in the Specification section of my development document.
 
-If you want, I can also help you add badges, screenshots, or a more advanced README layout — but this version is perfect for your assignment.
+
