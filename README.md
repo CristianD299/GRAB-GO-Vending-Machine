@@ -5,7 +5,7 @@ This repository contains my C++ Vending Machine program created for my universit
 📌 Features
 Core Requirements
 - Console‑based menu of drinks and snacks
-- Item selection using codes (e.g., A1, B2)
+- Item selection using codes (e.g., 01, 02)
 - Money input and validation
 - Automatic change calculation
 - Dispensing messages
@@ -24,7 +24,7 @@ VendingMachine/
 The main.cpp file contains the full source code for the vending machine.
 
 ▶ How to Run the Program
-- Download or clone the repository
+- Download the repository
 - Open the project in any C++ IDE or compiler (e.g., Visual Studio, Code::Blocks, g++)
 - Compile the program
 - Run the executable in the console
